@@ -1,4 +1,5 @@
 # Independent and identically distributed random variables
+___
 ## Definition
 
 Let the random variables be defined to assume values in $\mathbb{I}\subseteq \mathbb{R}$.
